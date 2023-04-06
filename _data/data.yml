@@ -200,9 +200,13 @@ projects:
       Small Listing of Side Projects
     assignments:
       - title: Sky Color Twitter Bot
+        icon: twitter
         link: "https://twitter.com/gfndskycolor"
         tagline: "This Twitter Bot (@gfndskycolor) project takes in webcam footage in the town of Grand Forks, ND and posts the top 10 colors of the sky every hour. To do this, a live YouTube stream is pulled via NodeJS and Puppeteer that feeds into a k-means clustering algorithm to isolate the dominant colors of the sky. A python script controls the posting every  hour of daylight, start and end of twilight, sunrise, sunset, and posts stats about day length. At the end of the day, a summary image of the dominant colors in the sky are mapped to the solar angle to visualize how long the day was. In the evenings, aurora forecasts are posted with data pulled from NOAA. This bot runs continuously on a small Azure compute."
-
+      - title: Weather Plotter
+        icon: github
+        link: "https://github.com/ghadlich/weatherplotting"
+        tagline: "A collection of utilities that plot weather data primarily into time series animations. The output plot animations are generated to be mp4s and gifs both in square format as well as optimized for vertical video."
 
 skills:
     title: Skills &amp; Proficiency
