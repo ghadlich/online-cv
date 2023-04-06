@@ -56,6 +56,10 @@ career-profile:
 education:
     title: Education
     info:
+      - degree: MSc in Computational Mathematics
+        university: University of Washington
+        time: Jan 2022 - Jun 2024 (Projected)
+        summary: Studying Applied Computational Mathematics
       - degree: MSc in Computer Science
         university: University of Washington
         time: Aug 2020 - Dec 2021
