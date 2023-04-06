@@ -59,8 +59,8 @@ education:
       - degree: MSc in Computer Science
         university: University of Washington
         time: Aug 2020 - Dec 2021
+        summary: Studied modern Machine Learning and NLP techniques.
         details: |
-          Studied modern Machine Learning and NLP techniques.
             - Distributed Computing
                 - Consistency Models, Key/Value Store Fundamentals
             - Natural Language Processing
