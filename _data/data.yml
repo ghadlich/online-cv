@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
+    pdf: https://github.com/ghadlich/online-cv/raw/master/Grant_Hadlich_Resume_04_2023.pdf
 
     languages:
       title: Languages
@@ -127,8 +127,8 @@ experiences:
             releases. Deeply involved in software branching and repository structuring. 
             Delivered 10+ software releases for both IVAS and HoloLens 2.
             - **Communication** - Held weekly and biweekly team meetings where I presented 
-            current program goals and priorities to the broader and what the team progress 
-            was. Sent regular mails across the organization to help ensure everyone was 
+            current program goals and priorities and what the team progress 
+            was. Sent regular mails across the organization to ensure everyone was 
             informed on program changes. Internal poll scores on communication increased 30%.
       - role: Manager / Senior Software Engineer / System Architect
         time: 2016 - 2020
@@ -140,6 +140,9 @@ experiences:
             - **Software Architecture** - Architected and implemented from scratch the safety
             critical application programming model including process definition, thread 
             priorities, interface definitions, and system performance KPIs.
+            - **Technical Roadmaps** -  Created both short and long term technology roadmaps 
+            across a highly matrixed organization. Worked closely with Directors and VPs to 
+            continually update.
             - **Operating Systems** - Selected and configured OSes for functions such as
             navigation, flight control, and mission management. Partnered with external
             companies to customize VxWorks and Yocto Linux BSPs.
