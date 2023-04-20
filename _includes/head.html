@@ -13,16 +13,16 @@
   <!-- Additional Meta -->
   {% if site.twitter_card %}
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="{{ site.url }}">
+  <meta name="twitter:site" content="{{ site.twitter_card.creator }}">
   <meta name="twitter:creator" content="{{ site.twitter_card.creator }}">
-  <meta name="twitter:image" content="{{ site.baseurl }}/assets/images/{{ site.preview_img }}">
+  <meta name="twitter:image" content="{{ site.url }}/assets/images/{{ site.preview_img }}">
   {% endif%}
 
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ site.url }}">
   <meta property="og:title" content="{{ site.title }}">
   <meta property="og:description" content="{{ site.description }}">
-  <meta property="og:image" content="{{ site.baseurl }}/assets/images/{{ site.preview_img }}">
+  <meta property="og:image" content="{{ site.url }}/assets/images/{{ site.preview_img }}">
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="favicon.ico">

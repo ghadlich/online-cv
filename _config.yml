@@ -2,20 +2,20 @@
 
 # Site Settings
 title: 'About - Grant Hadlich'
-url: 'http://granthadlich.com'
+url: 'https://ghadlich.github.io/online-cv'
 
 # Metadata
 preview_img: 'preview.jpg'
 
 # Twitter Card Enabled
 twitter_card: 
-  creator: '@granthadlich'
+  creator: '@GrantHadlich'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
 #baseurl: '/online-cv' 
 
-description: 'Grant Hadlich is a software manager and engineer with over 12 years of experience in leading software engineering and program management across diverse industries. Strong expertise in embedded software development, distributed systems, and operating systems.'
+description: 'Grant Hadlich is a software manager and engineer with over 12 years of experience in leading engineering teams. Strong expertise in embedded systems, distributed systems, and operating systems.'
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
