@@ -100,8 +100,13 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Vice President, Software
+        time: 2023 - Present
+        company: Ossia
+        details: |
+            - **Engineering Leader** - Bringing wireless power to consumer electronics!
       - role: Principal Software Engineering Manager
-        time: 2021 - Present
+        time: 2021 - 2023
         company: Microsoft
         details: |
             - **Group Manager** - Manager of a diverse team of 50+ managers and 
