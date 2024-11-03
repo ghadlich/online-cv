@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Grant Hadlich
     tagline: Software Engineering Manager
-    avatar: floatinghead.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: hello@granthadlich.com
@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://github.com/ghadlich/online-cv/raw/master/Grant_Hadlich_Resume_04_2023.pdf
+    pdf: https://github.com/ghadlich/online-cv/raw/master/Grant_Hadlich_Resume_11_2024.pdf
 
     languages:
       title: Languages
@@ -43,22 +43,22 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Software manager and engineer with over 12 years of experience 
-      in leading software engineering and program management across 
-      diverse industries. Strong expertise in embedded software 
-      development, distributed systems, and operating systems. 
-      Experienced in managing and coaching teams of 
+      Software manager and engineer with 13+ years of experience
+      with 6+ years in directly leading software engineering and
+      program manager teams. Strong expertise in embedded software
+      development, distributed systems, and operating systems.
+      Experienced in managing and coaching teams of
       varying sizes (50+), including managing other managers,
       developing project strategies, and driving technical
-      innovation. Excels at stakeholder relationships, 
-      project management, and driving continuous process improvement. 
+      innovation. Excels at stakeholder relationships,
+      project management, and driving continuous process improvement.
       Programs in C/C++, Java, and Python.
 education:
     title: Education
     info:
       - degree: MSc in Computational Mathematics
         university: University of Washington
-        time: Jan 2022 - Jun 2024 (Projected)
+        time: Jan 2022 - Mar 2024
         summary: Studying Applied Computational Mathematics
       - degree: MSc in Computer Science
         university: University of Washington
@@ -100,11 +100,28 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Vice President, Software
-        time: 2023 - Present
-        company: Ossia
+      - role: Engineering Manager
+        time: 2024 - Present
+        company: Google
         details: |
-            - **Engineering Leader** - Bringing wireless power to consumer electronics!
+            - **Team Lead** - Engineering Manager working on Spanner, integrating
+            with BigQuery.
+      - role: Vice President, Software
+        time: 2023 - 2024
+        company: Ossia, Inc
+        details: |
+            - **Group Lead** - Manager of 20+ engineers and managers building full
+            stack solutions from embedded IoT to cloud.
+            - **Project Planning** - Drove end to end project planning and management
+            from conception to MP.
+            - **Embedded Systems** - Leads team developing software and firmware for
+            cutting edge embedded RF reference kits.
+            - **Cloud / DevOps** - Leads full stack engineers building frontend,
+            backend, and DevOps infrastructure.
+            - **APIs** - Architected new public endpoints using Azure API Gateway
+            for third party integration.
+            - **Data Analysis** - Built up from scratch Elasticsearch system to
+            enable data introspection from customer devices.
       - role: Principal Software Engineering Manager
         time: 2021 - 2023
         company: Microsoft
@@ -243,13 +260,11 @@ skills:
         level: 98%
 
       - name: Distributed Systems
-        level: 70%
+        level: 80%
         
       - name: Engineering Management
         level: 90%
 
-      - name: PyTorch
-        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
